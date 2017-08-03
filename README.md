@@ -1,4 +1,4 @@
-# Golden-Ears-Cheater
+# Golden Ears Cheater
 Complete "Golden Ears" tests automatically.
 
 # How to use
